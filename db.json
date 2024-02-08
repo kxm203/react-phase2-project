@@ -1,0 +1,22 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "name":  "Hamburger",
+            "image": "https://s3.amazonaws.com/images.ecwid.com/images/29507647/1448399746.jpg",
+            "price": "$9.99"
+        },
+        {   
+            "id": 2,
+            "name":  "Chicken Wings",
+            "image": "https://3.bp.blogspot.com/-tRx07CaQRaQ/UXYX8V7bHNI/AAAAAAAAJ7s/Eyw2JD0hknY/s1600/BuffaloWings.jpg",
+            "price": "$12.99/dozen"
+        },
+        {  
+             "id": 3,
+            "name":  "Pizza",
+            "image": "https://gusspizzeriawoodstown.com/wp-content/uploads/2020/01/Cheese-PIzza11.jpg",
+            "price": "$11.99"
+        }
+    ]
+}
