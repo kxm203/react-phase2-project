@@ -20,6 +20,8 @@ function NewMenuItem({ onAddNewItem }) {
     setNewItem({ name: "", image: "", price: 0 });
   };
 
+
+
   return (
     <div className="new-menu-item">
       <h2>Add New Menu Item</h2>
