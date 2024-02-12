@@ -36,8 +36,8 @@ function App() {
     <div className="App">
       <Header />
       <NavBar />
-      <NewMenuItem onAddNewItem={handleAddNewItem} />
       <Menu foods={foods} />
+      <NewMenuItem onAddNewItem={handleAddNewItem} />
     </div>
   );
 }
