@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import NavBar from "./NavBar"
 
 function NewMenuItem({ onAddNewItem }) {
   const [newItem, setNewItem] = useState({
@@ -22,7 +23,9 @@ function NewMenuItem({ onAddNewItem }) {
 
   return (
     <div className="new-menu-item">
+      <NavBar />
       <h2>Add New Menu Item</h2>
+      
       <form onSubmit={handleSubmit}>
         <label>
           Name:
