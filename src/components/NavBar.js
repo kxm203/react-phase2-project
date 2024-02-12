@@ -1,4 +1,4 @@
 function NavBar () {
-    return <div></div>
+    return <div>This is where our NavBar will go.</div>
 }
 export default NavBar
