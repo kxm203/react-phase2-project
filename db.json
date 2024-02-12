@@ -1,32 +1,46 @@
 {
-    "foods": [
-        {
-            "id": 1,
-            "name":  "Hamburger",
-            "image": "https://s3.amazonaws.com/images.ecwid.com/images/29507647/1448399746.jpg",
-            "price":  9
-        },
-        {   
-            "id": 2,
-            "name":  "Chicken Wings",
-            "image": "https://3.bp.blogspot.com/-tRx07CaQRaQ/UXYX8V7bHNI/AAAAAAAAJ7s/Eyw2JD0hknY/s1600/BuffaloWings.jpg",
-            "price":  12
-        },
-        {  
-            "id": 3,
-            "name":  "Pizza",
-            "image": "https://gusspizzeriawoodstown.com/wp-content/uploads/2020/01/Cheese-PIzza11.jpg",
-            "price":  11
-        },
-        {   "id": 4,
-            "name":  "Salad",
-            "image": "https://i0.wp.com/www.missinthekitchen.com/wp-content/uploads/2020/03/Everyday-Salad-Image-H-scaled.jpg?resize=1536%2C1024&ssl=1",
-            "price":  18
-        },
-        {   "id": 5,
-            "name":  "French Fries",
-            "image": "https://static.fanpage.it/wp-content/uploads/sites/22/2020/09/iStock-618214356.jpg",
-            "price":  5
-        }
-    ]
+  "foods": [
+    {
+      "id": "1",
+      "name": "Hamburger",
+      "image": "https://s3.amazonaws.com/images.ecwid.com/images/29507647/1448399746.jpg",
+      "price": 9
+    },
+    {
+      "id": "2",
+      "name": "Chicken Wings",
+      "image": "https://3.bp.blogspot.com/-tRx07CaQRaQ/UXYX8V7bHNI/AAAAAAAAJ7s/Eyw2JD0hknY/s1600/BuffaloWings.jpg",
+      "price": 12
+    },
+    {
+      "id": "3",
+      "name": "Pizza",
+      "image": "https://gusspizzeriawoodstown.com/wp-content/uploads/2020/01/Cheese-PIzza11.jpg",
+      "price": 11
+    },
+    {
+      "id": "4",
+      "name": "Salad",
+      "image": "https://i0.wp.com/www.missinthekitchen.com/wp-content/uploads/2020/03/Everyday-Salad-Image-H-scaled.jpg?resize=1536%2C1024&ssl=1",
+      "price": 18
+    },
+    {
+      "id": "5",
+      "name": "French Fries",
+      "image": "https://static.fanpage.it/wp-content/uploads/sites/22/2020/09/iStock-618214356.jpg",
+      "price": 5
+    },
+    {
+      "id": "5b71",
+      "name": "",
+      "image": "",
+      "price": 0
+    },
+    {
+      "id": "45bc",
+      "name": "",
+      "image": "",
+      "price": 0
+    }
+  ]
 }
