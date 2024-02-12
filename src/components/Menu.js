@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from "react";
 
+
 function Menu () {
     const [foods, setFoods] = useState([]);
 
