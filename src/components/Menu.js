@@ -24,6 +24,6 @@ function Menu () {
         <main className="menu">
             {foodItems}
         </main>
-    );    
+    );
 }
 export default Menu
