@@ -4,12 +4,12 @@ import "../App.css";
 
 function NavBar () {
     return (
-        <nav>
+        <nav className="navbar">
             <NavLink
                 to="/"
                 className="nav-link"
             >
-               App
+               Main
             </NavLink>
             <NavLink
                 to="/menu"
@@ -18,7 +18,7 @@ function NavBar () {
                 Menu
             </NavLink> 
             <NavLink
-                to="newmenuitem"
+                to="/newmenuitem"
                className="nav-link"
             >
                 NewMenuItem

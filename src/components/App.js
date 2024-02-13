@@ -3,6 +3,7 @@ import Header from "./Header";
 import NavBar from "./NavBar";
 import Menu from "./Menu";
 import NewMenuItem from "./NewMenuItem";
+
 import '../App.css';
 
 function App() {
@@ -33,12 +34,11 @@ function App() {
   };
 
   return (
-    <div className="App">
-      <Header />
-      <NavBar />
-      <Menu foods={foods} />
-      <NewMenuItem onAddNewItem={handleAddNewItem} />
-    </div>
+      <div className="App">
+        <Header />
+        <Menu foods = {foods} />
+        <NewMenuItem onAddNewItem={handleAddNewItem} />
+      </div>
   );
 }
 
