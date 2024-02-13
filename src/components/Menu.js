@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from "react";
+import NavBar from "./NavBar"
 
 function Menu () {
     const [foods, setFoods] = useState([]);
@@ -21,9 +22,12 @@ function Menu () {
 
 
     return (
-        <main className="menu">
-            {foodItems}
-        </main>
+        <div>
+            <header><NavBar /></header>
+            <main className="menu">
+                {foodItems}
+            </main>
+        </div>
     );
 }
 export default Menu

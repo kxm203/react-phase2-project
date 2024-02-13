@@ -20,7 +20,7 @@
     },
     {
       "id": "4",
-      "name": "Salad",
+      "name": "Garden Salad",
       "image": "https://i0.wp.com/www.missinthekitchen.com/wp-content/uploads/2020/03/Everyday-Salad-Image-H-scaled.jpg?resize=1536%2C1024&ssl=1",
       "price": 18
     },
@@ -29,6 +29,45 @@
       "name": "French Fries",
       "image": "https://static.fanpage.it/wp-content/uploads/sites/22/2020/09/iStock-618214356.jpg",
       "price": 5
+<<<<<<< HEAD
+=======
+    },
+    { 
+      "id": "6",
+      "name": "Burrito",
+      "image": "https://i2.wp.com/mealsheelsandcocktails.com/wp-content/uploads/2017/10/Frenchs_Cheeseburger_Burrito.jpg?fit=1600%2C1067&ssl=1",
+      "price": 7
+    },
+    { 
+      "id": "7",
+      "name": "Taco Salad",
+      "image": "https://www.thecountrycook.net/wp-content/uploads/2011/01/Dorito-Taco-Salad.png",
+      "price": 15
+    },
+    { 
+      "id": "8",
+      "name": "Mozzarella Sticks",
+      "image": "https://149573549.v2.pressablecdn.com/wp-content/uploads/mozzarella-sticks-600x600.jpg",
+      "price": 10
+    },
+    {
+      "id": "9",
+      "name": "CheeseSteak",
+      "image": "https://s3-media3.fl.yelpcdn.com/bphoto/CJffbm9L8eY2XMw_uZDLZg/348s.jpg",
+      "price": 14
+    },
+    { 
+      "id": "10",
+      "name": "Fish & Chips",
+      "image": "https://media.timeout.com/images/103696693/image.jpg",
+      "price": 16
+    },
+    {
+      "id": "11",
+      "name": "Eggplant Parmigiana",
+      "image": "https://www.mommyhatescooking.com/wp-content/uploads/2016/01/eggplant-parmigiana-2.jpg",
+      "price": 17
+>>>>>>> 477a2e2246794a3ce1334026d64fdee00b58c364
     }
   ]
 }
