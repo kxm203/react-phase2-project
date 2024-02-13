@@ -23,7 +23,8 @@ function NewMenuItem({ onAddNewItem }) {
 
   return (
     <div className="new-menu-item">
-      <NavBar />
+      <header><NavBar/></header>
+      
       <h2>Add New Menu Item</h2>
       
       <form onSubmit={handleSubmit}>
