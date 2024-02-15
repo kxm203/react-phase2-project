@@ -4,9 +4,9 @@ function Header() {
   return (
     <header>
       <h1>
-        Foodie Menu
+       🍔🍗FOODIE'S LIVE FOREVER 
         <span className="logo" role="img">
-          🍔🍗🍕🥗🍟
+          🍕🥗🍟
         </span>
       </h1>
     </header>

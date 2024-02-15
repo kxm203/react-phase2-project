@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Header from "./Header";
-import NavBar from "./NavBar";
 import Menu from "./Menu";
 import NewMenuItem from "./NewMenuItem";
 
